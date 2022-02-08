@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @chandankrihnani   
+- 👋 Hi, I’m @chandankrishnani   
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning COCOS
+- 🌱 I’m an expert Cocos Creater develper
 - 📫 How to reach me https://www.linkedin.com/in/chandan-krishnani-7774451a1/
 
 <!---
